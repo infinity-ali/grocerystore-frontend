@@ -1,0 +1,8 @@
+.banner-button:hover{
+    background-color: #b02e46;
+    color: white;
+}
+.banner-button{
+    background-color: transparent;
+    color: #b02e46;
+}

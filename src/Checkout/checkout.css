@@ -1,0 +1,7 @@
+input::placeholder {
+    font: 14px/3 sans-serif;
+    color:rgb(150, 150, 150);
+}
+.accordion-button.collapsed{
+    background-color: transparent;
+}

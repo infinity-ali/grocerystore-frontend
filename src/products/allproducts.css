@@ -1,0 +1,10 @@
+.active-category{
+    background-color: black;
+    color: white;
+}
+
+.unactive-category{
+    background-color: black;
+    color: white;
+    display: none;
+}

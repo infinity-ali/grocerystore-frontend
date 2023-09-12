@@ -1,2 +1,2 @@
-# grocerystore-frontend
-Grocery Store Frontend App developed using React, Next.js
+# React-ecommerce project for grocery store
+
