@@ -1,2 +1,2 @@
 # grocerystore-frontend
-Boilerplate for backend
+Grocery Store Frontend App developed using React, Next.js
